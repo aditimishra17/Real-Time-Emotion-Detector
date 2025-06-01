@@ -1,1 +1,2 @@
 # Real-Time-Emotion-Detector
+Developed a real-time facial emotion recognition system using Convolutional Neural Networks (CNNs) and the FER-2013 dataset. Integrated with OpenCV to capture live webcam feed and detect faces, classifying them into seven emotions (Happy, Sad, Angry, Surprise, Fear, Neutral, Disgust). Optimized the model for real-time inference on standard CPUs, enabling smooth emotion recognition without GPU dependency. Designed for applications in human-computer interaction, surveillance, and mental health monitoring.
